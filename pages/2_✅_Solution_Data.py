@@ -20,7 +20,7 @@ st.markdown(
 
 st.divider()
 
-tab = st.tabs(['Soln 1: Typical Solution', 'Ex 2: VDO Solution'])
+tab = st.tabs(['Soln 1: Typical Solution', 'Soln 2: VDO Solution'])
 
 with tab[0]:
     st.markdown(
