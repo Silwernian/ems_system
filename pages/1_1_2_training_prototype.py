@@ -6,7 +6,7 @@ import numpy as np
 import plotly.express as px
 import pandas as pd
 
-st.set_page_config(page_title='Training Prototype', page_icon=None, layout="centered")
+st.set_page_config(page_title='Training Prototype', page_icon=None, layout="wide")
 
 #----Header Zone----#
 st.title('ยินดีต้อนรับเข้าสู่ระบบ :violet[**Exercise Designer**]')
